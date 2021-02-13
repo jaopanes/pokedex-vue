@@ -1,24 +1,22 @@
-# pokedex
+# Pokedex usando Vue.js
 
-## Project setup
-```
-npm install
-```
+Criação de uma aplicação usando Vue.js para fins de aprendizando. 
 
-### Compiles and hot-reloads for development
+- [X] Consumo de API externa
+- [X] Sistema de pesquisa 
+
+## API
+
+Para a desenvolvimento da aplicação foi utilizada uma API externa chamada <b>PokéAPI</b>.
+[Documentação](https://pokeapi.co/) 
+
+
+## Instalação
+Copie o repositório em sua máquina e rode em seu terminal o comando:
 ```
 npm run serve
 ```
+(necessário possuir o Nodejs em sua máquina)
 
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Créditos
+Canal do youtube [Guia do Programador](https://www.youtube.com/channel/UC_issB-37g9lwfAA37fy2Tg) pela playlist e tutorial de execução do projeto.
