@@ -14,6 +14,11 @@ Para a desenvolvimento da aplicação foi utilizada uma API externa chamada <b>P
 ## Instalação
 Copie o repositório em sua máquina e rode em seu terminal o comando:
 ```
+npm install
+```
+
+e logo em seguida o comando para subir o servidor de desenvolvimento
+```
 npm run serve
 ```
 (necessário possuir o Nodejs em sua máquina)
